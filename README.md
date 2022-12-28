@@ -9,5 +9,11 @@ Store all the movie name in a one text file
  billboard = https://www.billboard.com/charts/hot-100/
  youtube link = https://www.youtube.com/watch?v=3vvvjdmBoyc
  
-@3. 
+@3. Create Automate Amazon Price Tracker using python
+How does Amazon keep track of prices?
+CamelCamelCamel is another option to track price history on Amazon. Just copy and paste the product's URL on the site and it will show you a graph of the price over weeks, months and years.
+
+but This is send a price which you can buy of your selected product using python  😡😡😡👿😒
+
+
  
